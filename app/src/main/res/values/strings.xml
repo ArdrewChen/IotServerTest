@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IotServer</string>
+    <string name="send">Send</string>
+    <string name="receive">Receive</string>
+    <string name="text">TextView</string>
+    <string name="image">image</string>
+</resources>
